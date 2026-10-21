@@ -1,15 +1,15 @@
-# Add your original Diwali faral photos
+# Original Diwali faral photos
 
-Replace the `.svg` placeholders with your own photos. Keep the same base name (or update `index.html`):
+Your product photos are used in the pamphlet:
 
-| File | Suggested content |
-|------|-------------------|
-| `hero-faral.jpg` / `.png` / `.svg` | Full assortment / gift box (main banner) |
-| `chakli.jpg` | Chakli close-up |
-| `chivda.jpg` | Chivda |
-| `karanji.jpg` | Karanji |
-| `ladoo.jpg` | Ladoo |
+| File | Use |
+|------|-----|
+| `hero-faral.jpg` / `hero-banner.jpg` | Main thali platter |
+| `assortment-closeup.jpg` | Full close-up assortment |
+| `chakli.jpg` | Chakli crop |
+| `chivda.jpg` | Chivda crop |
+| `karanji.jpg` | Karanji crop |
+| `ladoo.jpg` | Ladoo crop |
+| `shankarpali.jpg` | Shankarpali crop (optional) |
 
-After adding a JPG/PNG, change the matching `src` in `index.html` from `.svg` to your file extension.
-
-**Tips:** Landscape for the hero. Square crops for the four small tiles.
+SVG files are unused placeholders and can be deleted.
